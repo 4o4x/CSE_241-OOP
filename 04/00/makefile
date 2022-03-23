@@ -1,0 +1,10 @@
+target: hw4
+
+
+hw4:	main.cpp
+		g++ main.cpp dayofyearset.cpp -o hw4
+		./hw4 >out.txt
+		rm hw4
+
+
+		

@@ -1,0 +1,9 @@
+13
+7 7
+  PPP  
+  PP.  
+..PP..P
+P...P.P
+P.PPPPP
+  ..P  
+  ..P  

@@ -1,0 +1,9 @@
+Player Type: 0
+Number of Moves: 1
+  PPP  
+  PPP  
+PPPPPPP
+P..PPPP
+PPPPPPP
+  PPP  
+  PPP  

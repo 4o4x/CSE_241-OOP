@@ -1,0 +1,11 @@
+1
+0
+8 8
+PPPPPPPP   
+ PPPPPP
+  PPPP
+   P.
+   PP
+  PPPP
+ PPPPPP
+PPPPPPPP
